@@ -31,7 +31,17 @@ new@capitalchainoriginstablesummit.xyz
 
 Disposable domains
 
+
 john@spamgourmet.com
-sally@acuityscheduling.com
+sally@activatewe.us
+jaime@activestore.xyz
+
+
+
+
+
+
+
+
 
 
