@@ -26,3 +26,12 @@ New domains:
 
 test@priyascluster.us
 new@capitalchainoriginstablesummit.xyz
+
+
+
+Disposable domains
+
+john@spamgourmet.com
+sally@acuityscheduling.com
+
+
