@@ -15,3 +15,4 @@ test@temp-mail.org
 test@guerrillamail.com      
 test@sharklasers.com
 test@priyascluster.us
+new@capitalchainoriginstablesummit.xyz
