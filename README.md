@@ -10,10 +10,15 @@ test7@zoho.com
 test8@fastmail.com
 test9@aol.com
 test10@yandex.com
-test@domainnot.co
 test@temp-mail.org          
 test@guerrillamail.com      
 test@sharklasers.com
+
+
+Non existing domain - 
+
+test@domainnot.co
+
 
 New domains: 
 
