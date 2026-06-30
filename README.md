@@ -50,6 +50,11 @@ multiple-breaches@hibp-integration-tests.com
 
 Blacklisted domains
 
+test@dbl-test.spamhaus.org
+
+
+
+
 
 
 
